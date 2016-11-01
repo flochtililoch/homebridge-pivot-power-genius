@@ -1,0 +1,17 @@
+{
+  "client_id": "123",
+  "client_secret": "234",
+  "username": "foo",
+  "password": "bar",
+  "outlets": [
+    {
+      "uuid": "123",
+      "name": "foo",
+      "service": "Lightbulb"
+    },
+    {
+      "uuid": "234",
+      "name": "bar"
+    }
+  ]
+}

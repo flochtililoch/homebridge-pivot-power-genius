@@ -1,0 +1,50 @@
+{
+  "name": "homebridge-pivot-power-genius",
+  "version": "0.0.0",
+  "description": "Homebridge plugin for the Wink Pivot Power Genius (former Quirky).",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha test/**/*.test.js",
+    "patch-release": "npm version patch && npm publish && git push --follow-tags",
+    "minor-release": "npm version minor && npm publish && git push --follow-tags",
+    "major-release": "npm version major && npm publish && git push --follow-tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flochtililoch/homebridge-pivot-power-genius.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "Homebridge",
+    "Wink",
+    "Pivot",
+    "Power",
+    "Genius",
+    "Quirky",
+    "Outlet",
+    "HomeKit",
+    "Home",
+    "Automation",
+    "Siri"
+  ],
+  "engines": {
+    "node": ">=6.8.0",
+    "homebridge": ">=0.4.6"
+  },
+  "author": "flochtililoch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flochtililoch/homebridge-pivot-power-genius/issues"
+  },
+  "homepage": "https://github.com/flochtililoch/homebridge-pivot-power-genius#readme",
+  "dependencies": {
+    "wink-js": "^0.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.1.2",
+    "proxyquire": "^1.7.10",
+    "sinon": "^1.17.6"
+  }
+}
