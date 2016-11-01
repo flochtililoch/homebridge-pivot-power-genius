@@ -4,7 +4,7 @@ This [Homebridge](https://github.com/nfarina/homebridge) plugin allows to contro
 
 ## Setup
 - [Install homebridge](https://github.com/nfarina/homebridge#installation)
-- Install this plugin: `$ npm install -g homebridge-wink`
+- Install this plugin: `$ npm install -g homebridge-pivot-power-genius`
 
 ## Configuration
 
