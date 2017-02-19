@@ -1,6 +1,6 @@
 {
   "name": "homebridge-pivot-power-genius",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Homebridge plugin for the Wink Pivot Power Genius (former Quirky).",
   "main": "index.js",
   "scripts": {
