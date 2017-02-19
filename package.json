@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/flochtililoch/homebridge-pivot-power-genius#readme",
   "dependencies": {
-    "wink-js": "^0.1.1"
+    "wink-js": "scoobyshi/wink-js#5355dc7eb09ed602488d3ea7446f0ae7fb45795b"
   },
   "devDependencies": {
     "chai": "^3.5.0",
