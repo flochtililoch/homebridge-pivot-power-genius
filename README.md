@@ -1,3 +1,6 @@
+# DEPRECATED
+**This plugin relies on the v1 version of the Wink API. In order to use it, you will need an account with Wink that can access the v1 API.**
+
 # Homebridge Pivot Power Genius
 
 This [Homebridge](https://github.com/nfarina/homebridge) plugin allows to control your [Pivot Power Genius](https://www.amazon.com/Quirky-PPVG-WH01-Pivot-Power-Genius/dp/B00GN92MC6/ref=sr_1_1?ie=UTF8&qid=1477958522&sr=8-1&keywords=quirky+pivot+power+genius).
